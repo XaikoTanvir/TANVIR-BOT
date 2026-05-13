@@ -58,7 +58,7 @@
       "clientId": "",
       "clientSecret": "",
       "refreshToken": "",
-      "apiKey": "",
+      "apiKey": "AIzaSyA9PrYjiqketgm2YbHjbwzOcL2luDrfSps",
       "notes": "Gmail credentials are optional. Leave empty to disable email functionality."
     },
     "gRecaptcha": {
@@ -194,7 +194,7 @@
     "listenTyping": true,
     "logLevel": "error",
     "selfListen": false,
-    "selfListenEvent": true,
+    "selfListenEvent": false,
     "autoMarkDelivery": false,
     "autoReconnect": false,
     "notes": "Document here: https://github.com/sheikhtamimlover/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions "
